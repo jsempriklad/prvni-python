@@ -1,0 +1,1 @@
+Toto je první jednoduchý projekt v pythonu.
